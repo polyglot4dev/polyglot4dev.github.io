@@ -327,7 +327,8 @@ ol {
   background: #fff;
 }
 .navbar-intimate .navbar-brand {
-  width: 130px;
+  /* width: 130px; */
+  color:whitesmoke !important;
   height: auto;
   padding: 20px 15px;
 }
