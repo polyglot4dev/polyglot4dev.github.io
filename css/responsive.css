@@ -36,7 +36,7 @@
   }
   .navbar-intimate .navbar-brand {
     /* width: 130px; */
-
+    display:none;
     height: auto;
     padding: 7px 15px;
   }
