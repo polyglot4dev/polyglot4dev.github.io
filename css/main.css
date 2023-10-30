@@ -1803,14 +1803,21 @@ body {
   font-family: 'Sniglet', Arial, Helvetica, sans-serif;
 }
 
-nav222 { 
+.nav { 
   background-image: url("img/bg/freepik1big.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
-22content { 
+.content { 
   background-image: url("img/bg/freepik1big.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+.comics-border { 
+    border: solid black !important;
+    border-color: black !important;
+    border-width: 3px 4px 3px 5px !important;
+    border-radius: 30% 2% 162% 3%/9% 96% 2% 99% !important;
 }
